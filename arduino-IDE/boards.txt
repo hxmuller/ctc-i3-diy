@@ -133,7 +133,7 @@ gt2560.upload.speed=57600
 
 gt2560.bootloader.low_fuses=0xFF
 gt2560.bootloader.high_fuses=0xD8
-gt2560.bootloader.extended_fuses=0xFF
+gt2560.bootloader.extended_fuses=0xFD
 gt2560.bootloader.path=stk500v2
 gt2560.bootloader.file=stk500boot_v2_mega2560.hex
 gt2560.bootloader.unlock_bits=0x3F
