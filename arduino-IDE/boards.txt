@@ -128,7 +128,7 @@ mega2560.build.variant=mega
 gt2560.name=GT2560 Rev. A w/ATmega2560
 
 gt2560.upload.protocol=wiring
-gt2560.upload.maximum_size=262144
+gt2560.upload.maximum_size=258048
 gt2560.upload.speed=57600
 
 gt2560.bootloader.low_fuses=0xFF
